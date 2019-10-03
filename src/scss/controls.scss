@@ -1,0 +1,14 @@
+#controls{
+    padding-bottom: 25px;
+    border-bottom: 2px solid #424242;
+    p{
+        margin: 10px 0;
+    }
+    .btn-block{
+        display: flex;
+        flex-wrap: wrap;
+        button{
+            flex-grow: 1
+        }
+    }
+}

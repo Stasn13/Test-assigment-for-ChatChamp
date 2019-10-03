@@ -1,0 +1,17 @@
+#list{
+    h1{
+        margin: 25px 0 10px
+    }
+    .list{
+        .list-item{
+            text-align: left;
+            list-style-type: none;
+            padding: 5px
+        }
+        .completed{
+            text-decoration: line-through;
+            color: #bdbdbd;
+            text-decoration-color: #424242;
+        }
+    }
+}

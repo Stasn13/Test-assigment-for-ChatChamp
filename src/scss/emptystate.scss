@@ -1,0 +1,18 @@
+.empty-state{
+    margin-top: 7%;
+    p{
+        margin-bottom: 30px;
+    }
+    svg{
+        width:100px;
+        height:100px;
+        margin-bottom: 5px;
+    }
+    button{
+        background-color: #0091EA;
+        font-weight: 600;
+        color: rgba(255,255,255,.87);
+        display: block;
+        margin: 0 auto
+    }
+}
